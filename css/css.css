@@ -1,9 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 nav,
 header,
 footer {
     display: block;
 }
- #applogo{
+
+#applogo{
     background-color: white;
     align-content: center;
 }
